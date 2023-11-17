@@ -1,6 +1,6 @@
 srping:
   application:
-    name: config-client-name-dev
+    name: config-client-namber
 eureka:
   client:
     fetch-registry: true
