@@ -1,6 +1,6 @@
-srping:
+spring:
   application:
-    name: config-client-namber
+    name: CONFIG-CLIENT-NAME-DEV
 eureka:
   client:
     fetch-registry: true
